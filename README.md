@@ -1,20 +1,8 @@
-# About
-This is a Github pages theme based on Twitter Bootstrap for your Github projects
-# License
+Slate
+=====
+Slate is responsive theme for GitHub Pages. [Fork it](https://github.com/jsncostello/slate/fork_select) and use it on your own site or generate one automatically using [GitHub Pages](http://pages.github.com).
 
-A Twitter Bootstrap Theme for your GitHub projects
+Slate in use:
+![Slate](https://f.cloud.github.com/assets/416727/1730110/c72a2f96-62d3-11e3-9d6f-efc53e24aeb2.png)
 
-Copyright (C) 2011 We Creative
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/gpl.html>.
+Slate is available under the MIT license.
