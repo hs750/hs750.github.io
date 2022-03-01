@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #3b6661;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -1813,7 +1813,7 @@ input, select, textarea {
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #3b6661;
 		}
 
 	input[type="text"],
@@ -2101,7 +2101,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background: #7c8081;
+				background: #3b6661;
 				color: #fff;
 			}
 
@@ -2151,8 +2151,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #3b6661;
+			border-color: #3b6661;
 			color: #fff !important;
 		}
 
@@ -2195,7 +2195,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #3b6661;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2218,7 +2218,7 @@ input, select, textarea {
 			.wrapper.style2 .button.primary {
 				background: #fff;
 				border-color: #fff;
-				color: #83d3c9 !important;
+				color: #3b6661 !important;
 			}
 
 				.wrapper.style2 input[type="button"].primary:hover,
@@ -2453,7 +2453,7 @@ input, select, textarea {
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #3b6661;
 				color: #fff;
 			}
 
@@ -2621,7 +2621,7 @@ input, select, textarea {
 
 	#footer {
 		background: #E8EEF4;
-		color: #7c8081;
+		color: #3b6661;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}
